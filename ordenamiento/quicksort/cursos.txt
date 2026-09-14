@@ -1,0 +1,48 @@
+Metodologia de la Programacion,4,1,3
+Cálculo Diferencial,7,1,4
+Álgebra Superior,7,1,4
+Introduccion a la Ingeniería,4,1,2
+Comunicacion Oral y Escrita,5,1,2
+Ingles I,5,1,3
+Desarrollo Profesional del Ingeniero,4,1,2
+Programacion y Metodos Numericos,8,2,6,0,1
+Calculo Integral,7,2,5,1,1
+Mecanica Vectorial,8,2,6,2,1
+Quimica,6,2,5
+Probabilidad y Estadistica,7,2,6
+Ingles II,5,2,3,5
+Programacion Estructurada,4,3,4,0,1
+Matematicas Discretas,6,3,6
+Metodología de la Investigacion,4,3,3
+Estadistica Avanzada,6,3,7,11,1
+Tecnología y Sociedad,4,3,3
+Lenguaje C,6,3,5,0,1
+Lenguajes de Programacion Orientada a Objetos,7,4,6,13,1
+Estructuras de Datos,7,4,7,20,13,1
+Organizacion de Computadoras,6,4,5,13,1
+Ingenieria de Requerimientos,7,4,7,15,1
+Redes de Computadoras,7,4,7
+Analisis de Tecnologias Emergentes,6,4,5
+Patrones de Software,7,5,7,19,1
+Analisis de Algoritmos,7,5,8,20
+Ingenieria de Procesos,6,5,6
+Administracion de Sistemas Operativos,7,5,7
+Bases de Datos,6,5,7,14,1
+Tecnologias Emergentes para el Desarrollo de Soluciones,6,6,6
+Analisis y Diseño de Software,8,6,8,24,1
+Verificacion y Validacion del Software,6,6,7,22,1
+Interaccion Humano-Computadora,6,5,6,27,1
+Gestion y Seguridad en Redes,5,6,7,23
+Herramientas de Desarrollo de Software,6,6,6,30,1
+Desarrollo Organizacional,6,6,5
+Aseguramiento de la Calidad del Software,6,7,7,31,1
+Administracion de Proyectos de Software,6,7,7,27,1
+Emprendimiento de Negocios de Software,6,7,6,
+Seguridad del Software,6,7,8,30
+Computo en la Nube,6,7,7,29
+Aplicaciones Moviles,8,8,8,27,1
+Topicos Selectos de Investigacion,6,8,6,15
+Laboratorio de Usabilidad,6,8,7
+Gestion de la Innovacion,6,8,6,38,1
+Desarrollo de Aplicaciones Innovadoras,6,8,7,
+Aplicaciones Web,8,7,8,28,1
