@@ -10,8 +10,7 @@
 //
 // Los primeros 4 campos son obligatorios (nombre, creditos, semestre,
 // dificultad). Cualquier campo adicional se interpreta como el índice
-// (0-based, según el orden de aparición en el archivo) de un curso del
-// cual este curso depende. El número de prerequisitos se calcula
+// de un curso del cual este curso depende. El número de prerequisitos se calcula
 // automáticamente según cuántos campos adicionales tenga la línea.
 //
 // Devuelve un arreglo de Curso reservado dinámicamente y coloca en
@@ -84,8 +83,6 @@ Curso* leer_cursos_archivo(const char *ruta_archivo, int *n_cursos) {
 }
 
 // LECTURA DESDE ARCHIVO 
-
-
 // Quita el salto de linea ('\n') y el retorno de carro ('\r', por si el
 // archivo viene con terminaciones de linea estilo Windows) al final de una cadena.
 void quitar_salto_linea(char *linea) {
@@ -96,7 +93,7 @@ void quitar_salto_linea(char *linea) {
     }
 }
 
-// Cuenta cuántas líneas con contenido tiene el archivo (una linea = un curso).
+// Cuenta las lineas con contenido tiene el archivo.
 int contar_lineas_archivo(const char *ruta_archivo) {
     FILE *archivo = fopen(ruta_archivo, "r");
     if (archivo == NULL) {
